@@ -17,7 +17,7 @@ export default function Skills() {
   return (
     <main className="skills">
       <section className="skills_container fade-section" ref={fadeInRef}>
-        <h1 className="skills_heading">Kompetancer</h1>
+        <h1 className="skills_heading">Kompetencer</h1>
         {skills.map((skill, index) => (
           <div key={index} className="skills_icon_wrapper">
             <img src={skill.icon} alt={skill.name} className="skills_icon" />

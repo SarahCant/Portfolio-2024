@@ -39,7 +39,7 @@ export default function Projects() {
     {
       id: 6,
       imgSrc: "./img/projects/portfolio.png",
-      githubLink: "https://github.com/SarahCant/Portfolio/tree/main/src", // GitHub link
+      githubLink: "https://github.com/SarahCant/Portfolio-2024", // GitHub link
     },
   ];
 
